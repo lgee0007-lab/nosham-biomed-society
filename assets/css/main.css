@@ -2179,7 +2179,7 @@ input, select, textarea {
 		margin-left: 375px;
 		text-align: center;
 		background-color: #31128a;
-		background-image: url("../../images/bg-footer.png");
+		background-image: url("../../images/bg-footer.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -2230,27 +2230,27 @@ input, select, textarea {
 
 #main > section.one {
 	background-color: #fbf9ff !important;
-	background-image: url("../../images/bg-hero.png") !important;
+	background-image: url("../../images/bg-hero.jpg") !important;
 }
 
 #main > section.two {
 	background-color: #fbf9ff !important;
-	background-image: url("../../images/bg-section-1.png") !important;
+	background-image: url("../../images/bg-section-1.jpg") !important;
 }
 
 #main > section.three {
 	background-color: #f8f4ff !important;
-	background-image: url("../../images/bg-section-2.png") !important;
+	background-image: url("../../images/bg-section-2.jpg") !important;
 }
 
 #main > section.four {
 	background-color: #fbf9ff !important;
-	background-image: url("../../images/bg-section-1.png") !important;
+	background-image: url("../../images/bg-section-1.jpg") !important;
 }
 
 #footer {
 	background-color: #32108a !important;
-	background-image: url("../../images/bg-footer.png") !important;
+	background-image: url("../../images/bg-footer.jpg") !important;
 	background-size: cover !important;
 	background-position: center center !important;
 	background-repeat: no-repeat !important;
